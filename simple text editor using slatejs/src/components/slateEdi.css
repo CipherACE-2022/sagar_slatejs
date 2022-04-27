@@ -1,0 +1,44 @@
+button{
+    color: white;
+    background-color: black;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 4px 12px;
+    text-decoration: none;
+    vertical-align: left;
+    margin: 10px;
+    border: none;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+#full-con{
+    background-color: black;
+    margin-left: 500px;
+    width: 40%;
+    height: 15%;
+}
+
+#ediText{
+    margin-top: 3px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    width: 40%;
+    height: 25%;
+    margin-left: 0px;
+    border: 1px solid #ccc;
+}
+
+#bq{
+    margin-top: 3px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 12px;
+    width: 40%;
+    height: 25%;
+    margin-left: 200px;
+    border-left: 10px solid rgb(154, 152, 152);
+}
