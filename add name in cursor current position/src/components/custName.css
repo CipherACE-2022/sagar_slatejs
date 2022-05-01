@@ -1,0 +1,13 @@
+#btn{
+    margin-top: 25px;
+   margin-bottom: 15px;
+}
+
+#edtr{
+    background-color: white;
+    border: 1px solid #ccc;
+    height: 300px;
+    width: 700px;
+    position: absolute;
+    left: 30%;
+}
