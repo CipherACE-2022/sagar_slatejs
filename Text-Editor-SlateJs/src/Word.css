@@ -1,0 +1,66 @@
+button{
+    border: none;
+    background-color: white;
+    color: black;
+    font-size: 0.7em;
+    padding: 10px;
+    font-family: consolas;
+}
+
+select{
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 5px;
+}
+
+body{
+    background-color: white;
+}
+
+.btn-con{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 2px solid grey;
+}
+
+#bq{
+    margin-top: 3px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(50, 49, 49);
+    padding: 10px;
+    font-style: italic;
+    margin-left: 200px;
+    border-left: 8px solid rgb(154, 152, 152);
+}
+
+img{
+    width: 15px;
+    height: 10px;
+}
+
+#editor{
+ background-color: white;
+ text-align: left;
+ margin-top: 9px;
+ margin-left: 24%;
+ width: 8.5in;
+ min-height: 11in;
+ max-height: 11in;
+ height: 11in;
+ padding: 10px;
+ box-shadow: 0 0 5px 0 rgba(0, 0, 0, .5);
+    
+}
+
+#editor2
+{
+background-color: white;
+text-align: left;
+margin-top: 9px;
+margin-left: 24%;
+width: 8.5in;
+min-height: 11in;    
+}
